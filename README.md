@@ -17,9 +17,6 @@ The codes were developed to run in a Jupyter Notebook using a Julia kernel. The 
 
 Therefore, to use the codes above, one needs to install: Julia, JuMP, IPOPT and CPLEX. Both solvers require manual installation. IPOPT requires installing a Julia Package, whereas CPLEX requiers obtaining a commercial license . 
 
-## Usage
-Explain how to use your code. Provide examples, if possible, and describe the inputs, outputs, and any important functionalities.
-
 ## License
 MIT License
 
